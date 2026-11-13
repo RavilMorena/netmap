@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+dist/
+.venv/
+.ruff_cache/
+*.tsbuildinfo
+*.tar.gz
+*.zip
+.DS_Store
+.env.tmp
+netmap-root.crt
